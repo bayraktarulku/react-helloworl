@@ -1,0 +1,23 @@
+{
+  "name": "react-example",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ulku Bayraktar",
+    "email": "ulkubayraktar@gmail.com",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bayraktarulku/react-helloworld.git"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
