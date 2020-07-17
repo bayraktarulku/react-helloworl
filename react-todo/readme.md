@@ -6,7 +6,7 @@
 
 - Repository clone `git clone git@github.com:bayraktarulku/react-helloworld.git`
 - cd react-helloworld
-- install with [npm] (https://www.npmjs.com/package/react-todo-example): `npm install react-todo`
+- install with [npm]: `npm install react-todo`
 
 ## Login
 > Giriş bilgisi:
